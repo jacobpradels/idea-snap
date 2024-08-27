@@ -19,4 +19,8 @@ progress::-webkit-progress-value {
   .btn {
     @apply !capitalize;
   }
+
+  .axiom {
+    background-image: url("https://www.transparenttextures.com/patterns/axiom-pattern.png");
+  }
 }
